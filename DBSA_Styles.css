@@ -1,0 +1,173 @@
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+.Copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #2F87AC;
+}
+.BodyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	color: #2F87AC;
+}
+.SubHeads {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #858EB6;
+	font-weight: bold;
+}
+.Signoff {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #90A4C9;
+}
+.BodyTextBold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	color: #2F87AC;
+	font-weight: bold;
+}
+.FieldName {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #90A4C9;
+	font-weight: bold;
+}.LinkText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CA92AB;
+}
+.BulletPoints {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 24px;
+	color: #858EB6;
+	margin-left: 25px;
+}
+.MeetingText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #2F87AC;
+}
+.MeetingTimeText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #90A4C9;
+}
+.InterestText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CA92AB;
+	font-weight: bold;
+}
+.FormElements {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	color: #2F87AC;
+	font-weight: bold;
+}
+.newsText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #2F87AC;
+	line-height: 14px;
+}
+.newsTextCell {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #2F87AC;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #C6EAEE;
+	line-height: 18px;
+}
+.newsTextBold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #2F87AC;
+	line-height: 14px;
+	font-weight: bold;
+}
+.CopyrightLink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #CA92AB;
+}
+.EventTitleText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	color: #CA92AB;
+	font-weight: bold;
+}
+.EventTitleTextCopy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	color: #2F87AC;
+	font-weight: bold;
+}
+.BodyTextItalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	color: #2F87AC;
+	font-style: italic;
+}
+.LinkTextItalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CA92AB;
+	font-style: italic;
+}
+.CopyrightItalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #2F87AC;
+	font-style: italic;
+}
+.TableStrokeStyle {
+	border: 1px solid #2F87AC;
+}
+.SubHeadsItalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #858EB6;
+	font-weight: bold;
+	font-style: italic;
+}
+.EventTitleTextItalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	color: #CA92AB;
+	font-weight: bold;
+	font-style: italic;
+}
+.newsTextPink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #CA92AB;
+	line-height: 14px;
+}
+.ForumDisclaimer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #2F87AC;
+}

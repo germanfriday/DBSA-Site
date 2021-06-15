@@ -1,0 +1,82 @@
+.main-options-column {
+width: 450px;
+margin: 0 10px 1px 0;
+}
+
+.options-column {
+width: 310px;
+}
+
+.inside p {
+padding: 0 10px 0 10px;
+}
+
+.option-label {
+font-weight: bold;
+margin: 0 0 5px 0;
+}
+
+.option-field {
+width: 425px;
+}
+
+p.field-label {
+margin: 0 0 0 0;
+color: #999999;
+}
+
+.row {
+width: 100%;
+padding: 5px 0 5px 0;
+border-top: 1px solid #F5F5F5;
+float: left;
+}
+
+.last {
+margin: 0 0 10px 0;
+border-bottom: 1px solid #F5F5F5;
+}
+
+.option {
+padding: 0 0 0 10px;
+float: left;
+height: 20px;
+width: 220px;
+}
+
+.option-select {
+float: left;
+text-align: right;
+width: 205px;
+}
+
+.clearfix {
+content: ".";
+display: block;
+clear: both;
+visibility: hidden;
+line-height: 0;
+height: 0;
+}
+
+.postbox ul {
+margin: 0;
+padding: 0 10px 5px 10px;
+}
+
+.postbox li {
+margin: 10px 0 5px 0;
+}
+
+.postbox h4 {
+margin: 0 0 2px 0;
+}
+
+p.submit {
+margin: 0 0 10px 0;
+}
+
+#message {
+margin: 10px 0 10px 0;
+width: 760px;
+}
